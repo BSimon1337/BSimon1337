@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BSimon1337
-- 👀 I’m interested in ...game development
-- 🌱 I’m currently learning ...basic coding with scratch and C
+- 👀 I’m interested in ...software development, game development, and web design
+- 🌱 I’m currently learning ...Java and SQL
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
