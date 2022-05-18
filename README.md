@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BSimon1337
 - 👀 I’m interested in ...software development, game development, and web design, backend development, frontend development
-- 🌱 I’m currently learning ...HTML, CSS, and JS
+- 🌱 I’m currently learning ...HTML, CSS, JS, Java, Spring
 - 📫 How to reach me ...https://www.linkedin.com/in/beau-simon/
 
 <!---
